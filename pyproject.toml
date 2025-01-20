@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "simple-sanic-app"
+name = "api-and-async-experiments"
 version = "0.1.0"
 description = ""
 authors = ["Debashish Pal <debshish.pal@gmail.com>"]
