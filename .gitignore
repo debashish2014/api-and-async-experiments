@@ -1,0 +1,116 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment directories
+venv/
+.env/
+.env.bak/
+.venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Python wheels
+*.whl
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+.nox/
+pytest_cache/
+.tox/
+.pytest_cache/
+
+# MyPy type checker
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pydantic cache
+pydantic.json
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# macOS Finder files
+.DS_Store
+
+# Windows files
+Thumbs.db
+desktop.ini
+
+# Environment variables and settings
+.env
+.env.local
+settings.py
+settings_local.py
+
+# Local tools and logs
+*.log
+*.pot
+*.mo
+
+# Cache files
+*.cache
+*.tmp
+*.log
+*.bak
+
+# Flask files
+instance/
+*.db
+
+# Sanic files
+sanic.log
+
+# Coverage tools
+.coverage
+coverage.xml
+.cache
+.coverage.*
+
+# Documentation builds
+_site/
+docs/_build/
+
+# Profiling data
+*.prof
+
+# Others
+*.sqlite3
+*.pkl
+*.pid
+*.pid.lock
+
+# Temporary files created by editors
+*.swp
+*.swo
+.*.sw?
+.~*
+
+# Custom additions
+node_modules/
+yarn-error.log
+npm-debug.log
+poetry.lock
+Pipfile.lock

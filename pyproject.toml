@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "simple-sanic-app"
+version = "0.1.0"
+description = ""
+authors = ["Debashish Pal <debshish.pal@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+sanic = "^24.12.0"
+sanic-ext = "^23.12.0"
+fastapi = "^0.115.6"
+uvicorn = "^0.34.0"
+aiologger = "^0.7.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
